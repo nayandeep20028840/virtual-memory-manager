@@ -1,0 +1,9 @@
+Virtual address: 55041 Physical address: 5121 Value: 0
+Virtual address: 18633 Physical address: 5577 Value: 0
+Virtual address: 14557 Physical address: 5853 Value: 0
+Virtual address: 61006 Physical address: 5966 Value: 59
+Virtual address: 62615 Physical address: 407 Value: 37
+Virtual address: 7591 Physical address: 6311 Value: 105
+Virtual address: 64747 Physical address: 6635 Value: 58
+Virtual address: 6727 Physical address: 6727 Value: -111
+Virtual address: 32315 Physical address: 6971 Value: -114
